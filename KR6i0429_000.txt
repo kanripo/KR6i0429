@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說四願經
+#+DATE: 2015-08-30 20:19:25.120278
+#+PROPERTY: JUAN 0
