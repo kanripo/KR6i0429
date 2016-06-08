@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:25.938476
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:34
 #+TITLE: 佛說四願經
 #+PROPERTY: CBETA_ID T17n0735
 #+PROPERTY: ID KR6i0429
@@ -15,7 +15,7 @@
 No. 735¶
 《四願經》¶
 ¶
-吳月支國國優婆塞支謙譯¶
+吳月支〔國〕－【宮】國國優婆塞支謙譯¶
 
 聞如是：
 
